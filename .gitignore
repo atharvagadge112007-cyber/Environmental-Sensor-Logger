@@ -1,0 +1,27 @@
+
+# Object files
+*.o
+
+# Executable files
+environmental_logger
+run_tests
+
+# Build directory
+build/
+
+# Generated sensor data
+data/sensor_data.csv
+
+# Temporary test CSV files
+test_*.csv
+
+# Debug files
+*.out
+*.core
+
+# Editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
